@@ -23,3 +23,8 @@ https://krausest.github.io/js-framework-benchmark/current.html
 # Frontend in Rust with Yew and WASM
 
 https://youtu.be/1WHJqz0CHBw
+
+
+# Build a Rust API with Rocket, Diesel, and MySQL
+
+https://planetscale.com/blog/build-a-rust-api-with-rocket-diesel-mysql
