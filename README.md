@@ -28,3 +28,11 @@ https://youtu.be/1WHJqz0CHBw
 # Build a Rust API with Rocket, Diesel, and MySQL
 
 https://planetscale.com/blog/build-a-rust-api-with-rocket-diesel-mysql
+
+<hr>
+
+# 백엔드 개발 (Backend web development) - A to Z | 코딩셀러 - Build and Sell
+
+https://youtu.be/yY5zUp1J-iI
+
+<hr>
