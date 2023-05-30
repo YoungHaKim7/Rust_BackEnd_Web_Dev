@@ -4,6 +4,10 @@
 
 https://roadmap.sh/backend
 
+- Full-Stack
+
+  - https://roadmap.sh/full-stack
+
 # Rust Axum Full Course - Web Development | Jeremy Chone 👍❤️
 
 https://youtu.be/XZtlD_m59sM
