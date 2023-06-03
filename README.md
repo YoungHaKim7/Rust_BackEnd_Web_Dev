@@ -43,3 +43,7 @@ https://planetscale.com/blog/build-a-rust-api-with-rocket-diesel-mysql
 https://youtu.be/yY5zUp1J-iI
 
 <hr>
+
+# Mac M1 Postgres installation using home brew&명령어 표로 정리
+
+https://economiceco.tistory.com/11882
