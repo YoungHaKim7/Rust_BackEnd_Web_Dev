@@ -74,3 +74,25 @@ Vec<u8>
 &[u8]
 OsStr
 ```
+
+# Rust - String 넣는 법
+
+```
+.to_string()
+.to_owned()
+.into()
+String::from()
+format!()
+.into()
+```
+
+
+<hr>
+
+# Computer Science
+
+- Concurruncy
+  - https://en.wikipedia.org/wiki/Concurrency_(computer_science)
+
+- Parallel
+  - https://en.wikipedia.org/wiki/Parallel_computing
