@@ -54,3 +54,23 @@ https://economiceco.tistory.com/11882
 # cargo expand
 
 https://github.com/dtolnay/cargo-expand
+
+
+# A Practical Introduction to Derive Macros in Rust
+
+https://youtu.be/XY0yR6IPbhw
+
+- Rust macros기초
+  - https://doc.rust-lang.org/book/ch19-06-macros.html
+
+# Rust String 종류
+
+```
+String, &str
+CStr, CString
+Cow<'_, str>
+Path, PathBuf
+Vec<u8>
+&[u8]
+OsStr
+```
