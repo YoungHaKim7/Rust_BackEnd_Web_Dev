@@ -89,6 +89,15 @@ format!()
 
 <hr>
 
+# Concurruncy vs Parallel 이해하기
+
+- Node.js is a serious thing now… (2023)(동영상 그림이 이해하기 좋다.)57초부터
+  - https://youtu.be/_Im4_3Z1NxQ
+
+- 내가 만드거 1분 23초부터
+  - https://youtu.be/O3-5o1RiKws 
+
+
 # Computer Science
 
 - Concurruncy
