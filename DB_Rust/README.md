@@ -1,6 +1,9 @@
 # SurrealDB
 
 - https://surrealdb.com/
+  - Tutorial
+    - Building Awesome Desktop App with Rust, Tauri, and SurrealDB
+      - https://youtu.be/BY_ZjPGqJJk
 
 # EdgeDB
 
