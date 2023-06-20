@@ -108,3 +108,14 @@ format!()
 
 - Parallel
   - https://en.wikipedia.org/wiki/Parallel_computing
+ 
+# 데이터 파이프라인 구축 - 이론
+
+https://velog.io/@ginee_park/%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-%EA%B5%AC%EC%B6%95-%EC%9D%B4%EB%A1%A0
+
+- 우선은 데이터 파이프라인을 한번 경험해보는 것이 좋을 것 같아서 정리된 실습 강의
+
+  - 1) T academy "빅데이터 파이프라인 기술의 이해 및 적정도구의 선정" 빅데이터 파이프라인 기술을 이해하고, 여기에 사용되는 주요 클라우드 플랫폼 및 다양한 도구들의 장단점, 유스케이스에 맞는 도구를 선택하는 방법을 알아봅니다.
+220분 https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=116
+
+  - 2) T academy "소셜 데이터 분석을 위한 데이터 파이프라인 구성 실습" 트위터와 같은 소셜 빅데이터 분석을 위한 데이터 파이프라인 구성의 전체 flow를 간단하게 실습하여 경험할 수 있습니다. 200분https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=117
