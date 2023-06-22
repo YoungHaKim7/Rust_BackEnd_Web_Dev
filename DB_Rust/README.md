@@ -6,6 +6,7 @@
       - https://youtu.be/BY_ZjPGqJJk
       - Login https://surrealdb.com/docs/surrealql/statements/define/login
     - Getting started with SurrealDB!! Future of cloud databases (maybe)? https://youtu.be/D41jb4DDIdA
+    - DB가 보안이 되서 따로 신경쓸 필요없다. ㅋ https://surrealdb.com/docs/integration/websocket/text
 
 
 
