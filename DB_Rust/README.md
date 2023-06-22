@@ -5,6 +5,7 @@
     - Building Awesome Desktop App with Rust, Tauri, and SurrealDB
       - https://youtu.be/BY_ZjPGqJJk
       - Login https://surrealdb.com/docs/surrealql/statements/define/login
+    - Getting started with SurrealDB!! Future of cloud databases (maybe)? https://youtu.be/D41jb4DDIdA
 
 
 
