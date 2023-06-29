@@ -5,7 +5,9 @@
 
 # homepage만들고 얼마나 잘 만들었나 점수 체크하기
 
-https://pagespeed.web.dev/?utm_source=psi&utm_medium=redirect
+https://pagespeed.web.dev/
+
+<hr>
 
 # awesomeapp
 
