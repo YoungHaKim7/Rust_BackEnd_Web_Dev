@@ -2,6 +2,11 @@
 - Zero To Production In Rust
 ![zero_to](https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/87c0f290-b283-4fb0-bcaf-e357ad023fe2)
 
+
+# homepage만들고 얼마나 잘 만들었나 점수 체크하기
+
+https://pagespeed.web.dev/?utm_source=psi&utm_medium=redirect
+
 # awesomeapp
 
 https://awesomeapp.dev/
