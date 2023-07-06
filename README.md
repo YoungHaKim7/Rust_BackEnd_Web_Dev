@@ -21,6 +21,10 @@ https://roadmap.sh/backend
 
   - https://roadmap.sh/full-stack
 
+# 로드맵 한국사람이 정리함
+
+https://yozm.wishket.com/magazine/detail/2064/
+
 # Rust Axum Full Course - Web Development | Jeremy Chone 👍❤️
 
 https://youtu.be/XZtlD_m59sM
