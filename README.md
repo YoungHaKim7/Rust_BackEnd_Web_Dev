@@ -47,6 +47,10 @@ https://yozm.wishket.com/magazine/detail/2064/
 
 https://youtube.com/playlist?list=PLz51_WNhdOqv7S5pnycKySU_4PpCagU4Q
 
+# How to Build a REST API in Rust — A Step-by-Step Guide
+
+https://betterprogramming.pub/rest-api-in-rust-step-by-step-guide-b8a6c5fcbff0
+
 <hr>
 
 <hr>
