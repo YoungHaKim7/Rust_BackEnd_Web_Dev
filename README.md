@@ -25,10 +25,19 @@ https://roadmap.sh/backend
 
 https://yozm.wishket.com/magazine/detail/2064/
 
+<hr>
+
+<hr>
+
+# Full Stack
+
+  - Building a Movie Collection Manager - Full Stack Workshop with Rust, Actix, SQLx, Dioxus, and Shuttle
+
+    - https://bcnrust.github.io/devbcn-workshop/index.html
+
 # Rust Axum Full Course - Web Development | Jeremy Chone 👍❤️
 
-https://youtu.be/XZtlD_m59sM
-
+  - https://youtu.be/XZtlD_m59sM
 
 # Axum-tutorial
 
@@ -38,6 +47,9 @@ https://github.com/programatik29/axum-tutorial
 
 https://youtube.com/playlist?list=PLz51_WNhdOqv7S5pnycKySU_4PpCagU4Q
 
+<hr>
+
+<hr>
 
 # 웹 성능 비교 웹 프레임이 정말 많다. 이걸 다 비교하네 괴물들 !!
 
