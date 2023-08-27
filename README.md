@@ -32,6 +32,10 @@ https://yozm.wishket.com/magazine/detail/2064/
 
 <hr>
 
+# Rust Actix-Web Api - Full Crud | Arturo Filio Villa
+
+- https://youtu.be/TY0BLKCVMiU?si=7VpUIXL4MJH4qe1W
+
 # Full Stack
 
   - Building a Movie Collection Manager - Full Stack Workshop with Rust, Actix, SQLx, Dioxus, and Shuttle
