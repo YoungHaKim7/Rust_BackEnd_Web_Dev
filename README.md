@@ -36,6 +36,10 @@ https://yozm.wishket.com/magazine/detail/2064/
 
 - https://youtu.be/TY0BLKCVMiU?si=7VpUIXL4MJH4qe1W
 
+# Introduction to Rust syntax with a REST API built with Rocket
+
+- https://youtu.be/8RA6LSjXvRk?si=I_7vfBubh1W3oKRh
+
 # Full Stack
 
   - Building a Movie Collection Manager - Full Stack Workshop with Rust, Actix, SQLx, Dioxus, and Shuttle
