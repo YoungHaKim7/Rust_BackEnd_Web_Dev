@@ -62,6 +62,10 @@ https://youtube.com/playlist?list=PLz51_WNhdOqv7S5pnycKySU_4PpCagU4Q
 
 https://betterprogramming.pub/rest-api-in-rust-step-by-step-guide-b8a6c5fcbff0
 
+# Decrusting the axum crate | Jon Gjengset
+
+https://youtu.be/Wnb_n5YktO8?si=WixI6POiudPyiMCN
+
 <hr>
 
 <hr>
