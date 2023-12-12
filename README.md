@@ -42,9 +42,12 @@ https://yozm.wishket.com/magazine/detail/2064/
 
 # Full Stack
 
-  - Building a Movie Collection Manager - Full Stack Workshop with Rust, Actix, SQLx, Dioxus, and Shuttle
+- Building a Movie Collection Manager - Full Stack Workshop with Rust, Actix, SQLx, Dioxus, and Shuttle
 
-    - https://bcnrust.github.io/devbcn-workshop/index.html
+  - https://bcnrust.github.io/devbcn-workshop/index.html
+
+- “Rustifying” serverless: Boost AWS Lambda performance with Rust - AWS re:Invent talk
+  - https://youtu.be/Mdh_2PXe9i8?si=HxFJBaknHSBUQmFd
 
 # Rust Axum Full Course - Web Development | Jeremy Chone 👍❤️
 
