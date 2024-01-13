@@ -6,6 +6,9 @@
 
 # Rust ~~~
 
+# 여기에 정리 중
+- https://github.com/YoungHaKim7/pretzelhammer_s_Rust_blog_Education
+
 - https://github.com/pretzelhammer/rust-blog
   - pretzelhammer's Rust blog 🦀
 
