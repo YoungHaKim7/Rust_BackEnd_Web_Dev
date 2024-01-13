@@ -1,15 +1,7 @@
-# NGINX Tutorial for Beginners | freeCodeCamp.org
-
-- https://youtu.be/9t9Mp0BGnyI?si=c3MvnFQ7GtYPVW6x
-
-<hr>
-
-# Rust ~~~
+# pretzelhammer's Rust blog 🦀
 
 - https://github.com/pretzelhammer/rust-blog
-  - pretzelhammer's Rust blog 🦀
-
-    - educational content for Rust beginners and Rust advanced beginners.
+  - educational content for Rust beginners and Rust advanced beginners.
 
 ```
 This posts are listed below in reverse chronological order.
