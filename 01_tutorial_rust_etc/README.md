@@ -9,7 +9,7 @@
 - https://github.com/pretzelhammer/rust-blog
   - pretzelhammer's Rust blog 🦀
 
-    - I write educational content for Rust beginners and Rust advanced beginners.
+    - educational content for Rust beginners and Rust advanced beginners.
 
 ```
 My posts are listed below in reverse chronological order.
