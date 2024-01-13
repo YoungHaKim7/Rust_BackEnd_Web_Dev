@@ -1,3 +1,10 @@
+# 여기에 정리 중
+
+- https://github.com/YoungHaKim7/pretzelhammer_s_Rust_blog_Education
+
+
+<hr>
+
 # pretzelhammer's Rust blog 🦀
 
 - https://github.com/pretzelhammer/rust-blog
