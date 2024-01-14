@@ -34,4 +34,6 @@
 
 - https://redis.io/
 
+- https://redis.io/docs/get-started/document-database/
+
 - https://redis.io/docs/install/install-redis/install-redis-on-linux/
