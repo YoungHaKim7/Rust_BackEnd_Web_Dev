@@ -8,7 +8,13 @@ async fn main() -> Result<(), RedisError> {
 
     // 2) Set / Get Key
     con.set("my_key", b"Hello world!")?;
+    let result: String = con.get("my_key")?;
+    println!("--> my_key : {} \n", result);
+
+    // 7) Final wait & cleanup
+    con.del("my_key")?;
 
     println!("->> the end");
+
     Ok(())
 }
