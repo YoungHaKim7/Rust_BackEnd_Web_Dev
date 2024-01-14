@@ -1,4 +1,4 @@
-use redis::{Client, Commands, RedisError};
+use redis::{from_redis_value, streams::StreamRangeReply, Client, Commands, RedisError};
 
 #[tokio::main]
 async fn main() -> Result<(), RedisError> {
@@ -20,8 +20,21 @@ async fn main() -> Result<(), RedisError> {
     let len: i32 = con.xlen("my_stream")?;
     println!("-->> my_stream len {} \n", len);
 
+    // 4) xrevrange the read stream
+    let result: Option<StreamRangeReply> = con.xrevrange("my_stream", "+", 10)?;
+    if let Some(reply) = result {
+        for stream_id in reply.ids {
+            println!("->> xrevrange stream entity: {}", stream_id.id);
+            for (name, value) in stream_id.map.iter() {
+                println!(" ->> {}: {}", name, from_redis_value::<String>(value)?);
+            }
+        }
+        println!();
+    }
+
     // 7) Final wait & cleanup
     con.del("my_key")?;
+    con.del("my_stream")?;
 
     println!("->> the end");
 
