@@ -29,3 +29,9 @@
 
     - https://www.sea-ql.org/sea-orm-cookbook/
     
+
+# Redis
+
+- https://redis.io/
+
+- https://redis.io/docs/install/install-redis/install-redis-on-linux/
