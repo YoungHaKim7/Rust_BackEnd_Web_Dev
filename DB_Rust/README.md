@@ -37,3 +37,5 @@
 - https://redis.io/docs/get-started/document-database/
 
 - https://redis.io/docs/install/install-redis/install-redis-on-linux/
+
+- 도커로 redis 띄우기 https://velog.io/@coastby/redis-docker%EB%A1%9C-redis-%EB%9D%84%EC%9A%B0%EA%B8%B0
