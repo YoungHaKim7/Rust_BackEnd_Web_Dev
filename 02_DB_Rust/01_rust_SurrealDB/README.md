@@ -17,3 +17,5 @@ docker-compose up --pull always -d
 # Tutorial SurrealDB
 
 - https://github.com/surrealdb/surrealdb
+
+- 예문하고 공부할거 많다. 굿 https://github.com/surrealdb/awesome-surreal
