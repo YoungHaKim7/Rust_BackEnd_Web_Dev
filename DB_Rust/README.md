@@ -38,4 +38,8 @@
 
 - https://redis.io/docs/install/install-redis/install-redis-on-linux/
 
+- Rust to Redis with Async/Await [Intermediate] | Jeremy Chone
+  - https://youtu.be/uD5hBVHwyDM?si=-O6ETgppuprjOvvz
+
+
 - 도커로 redis 띄우기 https://velog.io/@coastby/redis-docker%EB%A1%9C-redis-%EB%9D%84%EC%9A%B0%EA%B8%B0
