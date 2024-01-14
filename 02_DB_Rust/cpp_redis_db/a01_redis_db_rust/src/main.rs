@@ -11,6 +11,15 @@ async fn main() -> Result<(), RedisError> {
     let result: String = con.get("my_key")?;
     println!("--> my_key : {} \n", result);
 
+    // 3) xadd to redis stream
+    con.xadd(
+        "my_stream",
+        "*",
+        &[("name", "name-01"), ("title", "title 01")],
+    )?;
+    let len: i32 = con.xlen("my_stream")?;
+    println!("-->> my_stream len {} \n", len);
+
     // 7) Final wait & cleanup
     con.del("my_key")?;
 
