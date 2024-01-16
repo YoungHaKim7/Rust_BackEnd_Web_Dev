@@ -6,6 +6,14 @@ https://www.zero2prod.com/index.html?country=Korea&discount_code=SEA60
 
 https://www.amazon.com/Zero-Production-Rust-introduction-development/dp/B0BHLDMFDQ
 
+<hr>
+
+# A curated list of Rust code and resources. 
+
+- https://github.com/rust-unofficial/awesome-rust
+
+<hr>
+
 # homepage만들고 얼마나 잘 만들었나 점수 체크하기
 
 https://pagespeed.web.dev/
