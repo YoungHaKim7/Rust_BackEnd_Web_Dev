@@ -1,4 +1,10 @@
-- https://github.com/gotuzzoj23/redis_streams 
+- https://github.com/gotuzzoj23/redis_streams
+
+- Rust to Redis with Async/Await [Intermediate] | Jeremy Chone
+  - https://youtu.be/uD5hBVHwyDM?si=qLK-M4XW1SueOEZY
+
+
+
 <hr>
 
 # redis
