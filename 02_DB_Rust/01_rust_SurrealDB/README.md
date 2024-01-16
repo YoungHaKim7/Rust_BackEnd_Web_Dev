@@ -1,3 +1,7 @@
+# SurrealDB - Rust Embedded Database - Quick Tutorial | Jeremy Chone
+- https://youtu.be/iOyvum0D3LM?si=As10zAC5C4FDjeUt
+
+
 # Docker Surrealdb
 
 https://docs.surrealdb.com/docs/installation/running/docker
