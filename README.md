@@ -1,6 +1,9 @@
 # Rust_BackEnd_Web_Dev
 - Zero To Production In Rust
-![zero_to](https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/87c0f290-b283-4fb0-bcaf-e357ad023fe2)
+<p align="center">
+  <img width=55px src="https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/87c0f290-b283-4fb0-bcaf-e357ad023fe2">
+</p>
+
 
 https://www.zero2prod.com/index.html?country=Korea&discount_code=SEA60
 
