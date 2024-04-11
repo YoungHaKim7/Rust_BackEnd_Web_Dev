@@ -257,3 +257,42 @@ https://velog.io/@ginee_park/%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%8C%8C%EC%9D%B4%ED%9
 220분 https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=116
 
   - 2) T academy "소셜 데이터 분석을 위한 데이터 파이프라인 구성 실습" 트위터와 같은 소셜 빅데이터 분석을 위한 데이터 파이프라인 구성의 전체 flow를 간단하게 실습하여 경험할 수 있습니다. 200분https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=117
+
+# WASM support(Rust)
+  - install
+
+  ```bash
+
+  rustup target add wasm32-wasi
+  ```
+
+  ```
+  cargo build --target wasm32-wasi
+  wasmer run target/wasm32-wasi/debug/cve-rs.wasm
+  ```
+  https://wasmer.io/
+
+  https://github.com/Speykious/cve-rs
+
+
+  ```bash
+  curl https://get.wasmer.io -sSfL | sh
+  ```
+
+  - Run in CLI
+
+  ```bash
+  wasmer run cowsay "Hello world"
+  ```
+
+  ```
+  pdating bash profile /Users/g/.config/fish/config.fish
+  we've added the following to your /Users/g/.config/fish/config.fish
+  If you have a different profile please add the following:
+
+  - Wasmer
+  export WASMER_DIR="/Users/g/.wasmer"
+  [ -s "$WASMER_DIR/wasmer.sh" ] && source "$WASMER_DIR/wasmer.sh"
+  check: wasmer 4.2.7 installed successfully ✓
+  wasmer will be available the next time you open the terminal.
+  If you want to have the commands available now please execute:
