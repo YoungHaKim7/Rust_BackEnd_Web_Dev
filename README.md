@@ -295,10 +295,13 @@ https://velog.io/@ginee_park/%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%8C%8C%EC%9D%B4%ED%9
   pdating bash profile /Users/g/.config/fish/config.fish
   we've added the following to your /Users/g/.config/fish/config.fish
   If you have a different profile please add the following:
+  ```
 
   - Wasmer
+  ```
   export WASMER_DIR="/Users/g/.wasmer"
   [ -s "$WASMER_DIR/wasmer.sh" ] && source "$WASMER_DIR/wasmer.sh"
   check: wasmer 4.2.7 installed successfully ✓
   wasmer will be available the next time you open the terminal.
   If you want to have the commands available now please execute:
+  ```
